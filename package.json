@@ -1,0 +1,23 @@
+{
+  "name": "sample-manager",
+  "version": "1.0.0",
+  "description": "Simple audio sample manager in Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KentKingery/sample-manager.git"
+  },
+  "author": "Kent Kingery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KentKingery/sample-manager/issues"
+  },
+  "homepage": "https://github.com/KentKingery/sample-manager#readme",
+  "devDependencies": {
+    "electron": "^34.0.0"
+  }
+}
